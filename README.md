@@ -6,6 +6,9 @@ A boilerplate Flutter project with:
 - Theming
 - Example services and widgets
 
+If you use this template, please consider starring ⭐️ the repo or linking back here!
+
+
 ## Getting Started
 
 1. Run `flutter pub get`
